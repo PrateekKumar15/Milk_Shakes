@@ -27,6 +27,7 @@ const App = () => {
         <div id="smooth-content">
           <HeroSection />
           <MessageSection />
+          <FlavorSection />
           
         </div>
       </div>
