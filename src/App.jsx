@@ -28,10 +28,13 @@ const App = () => {
           <HeroSection />
           <MessageSection />
           <FlavorSection />
-          <NutritionSection />         
+          <NutritionSection />
+          
           <div>
-            <BenefitSection />  
-          </div>        
+            <BenefitSection />
+            <TestimonialSection />
+          </div>
+          
         </div>
       </div>
     </main>
